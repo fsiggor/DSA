@@ -1,26 +1,39 @@
 pub struct MyQueue {
-    // Define your fields here
+    stk1: Vec<i32>,
+    stk2: Vec<i32>,
 }
 
 impl MyQueue {
     pub fn new() -> Self {
-        todo!()
+        MyQueue {
+            stk1: Vec::new(),
+            stk2: Vec::new(),
+        }
     }
 
     pub fn push(&mut self, x: i32) {
-        todo!()
+        self.stk1.push(x);
     }
 
     pub fn pop(&mut self) -> i32 {
-        todo!()
+        if self.stk2.is_empty() {
+            while let Some(val) = self.stk1.pop() {
+                self.stk2.push(val);
+            }
+        }
+        self.stk2.pop().unwrap()
     }
 
     pub fn peek(&self) -> i32 {
-        todo!()
+        if self.stk2.is_empty() {
+            self.stk1.first().unwrap().abs()
+        } else {
+            self.stk2.last().unwrap().abs()
+        }
     }
 
     pub fn empty(&self) -> bool {
-        todo!()
+        self.stk1.is_empty() && self.stk2.is_empty()
     }
 }
 

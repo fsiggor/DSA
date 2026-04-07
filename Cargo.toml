@@ -1,0 +1,364 @@
+[package]
+name = "dsa"
+version = "0.1.0"
+edition = "2021"
+
+[[test]]
+name = "ch01"
+path = "CH01/solution.rs"
+
+[[test]]
+name = "ch02"
+path = "CH02/solution.rs"
+
+[[test]]
+name = "ch03"
+path = "CH03/solution.rs"
+
+[[test]]
+name = "ch04"
+path = "CH04/solution.rs"
+
+[[test]]
+name = "ch05"
+path = "CH05/solution.rs"
+
+[[test]]
+name = "ch06"
+path = "CH06/solution.rs"
+
+[[test]]
+name = "ch07"
+path = "CH07/solution.rs"
+
+[[test]]
+name = "ch08"
+path = "CH08/solution.rs"
+
+[[test]]
+name = "ch09"
+path = "CH09/solution.rs"
+
+[[test]]
+name = "ch10"
+path = "CH10/solution.rs"
+
+[[test]]
+name = "ch11"
+path = "CH11/solution.rs"
+
+[[test]]
+name = "ch12"
+path = "CH12/solution.rs"
+
+[[test]]
+name = "ch13"
+path = "CH13/solution.rs"
+
+[[test]]
+name = "ch14"
+path = "CH14/solution.rs"
+
+[[test]]
+name = "ch15"
+path = "CH15/solution.rs"
+
+[[test]]
+name = "ch16"
+path = "CH16/solution.rs"
+
+[[test]]
+name = "ch17"
+path = "CH17/solution.rs"
+
+[[test]]
+name = "ch18"
+path = "CH18/solution.rs"
+
+[[test]]
+name = "ch19"
+path = "CH19/solution.rs"
+
+[[test]]
+name = "ch20"
+path = "CH20/solution.rs"
+
+[[test]]
+name = "ch21"
+path = "CH21/solution.rs"
+
+[[test]]
+name = "ch22"
+path = "CH22/solution.rs"
+
+[[test]]
+name = "ch23"
+path = "CH23/solution.rs"
+
+[[test]]
+name = "ch24"
+path = "CH24/solution.rs"
+
+[[test]]
+name = "ch25"
+path = "CH25/solution.rs"
+
+[[test]]
+name = "ch26"
+path = "CH26/solution.rs"
+
+[[test]]
+name = "ch27"
+path = "CH27/solution.rs"
+
+[[test]]
+name = "ch28"
+path = "CH28/solution.rs"
+
+[[test]]
+name = "ch29"
+path = "CH29/solution.rs"
+
+[[test]]
+name = "ch30"
+path = "CH30/solution.rs"
+
+[[test]]
+name = "ch31"
+path = "CH31/solution.rs"
+
+[[test]]
+name = "ch32"
+path = "CH32/solution.rs"
+
+[[test]]
+name = "ch33"
+path = "CH33/solution.rs"
+
+[[test]]
+name = "ch34"
+path = "CH34/solution.rs"
+
+[[test]]
+name = "ch35"
+path = "CH35/solution.rs"
+
+[[test]]
+name = "ch36"
+path = "CH36/solution.rs"
+
+[[test]]
+name = "ch37"
+path = "CH37/solution.rs"
+
+[[test]]
+name = "ch38"
+path = "CH38/solution.rs"
+
+[[test]]
+name = "ch39"
+path = "CH39/solution.rs"
+
+[[test]]
+name = "ch40"
+path = "CH40/solution.rs"
+
+[[test]]
+name = "ch41"
+path = "CH41/solution.rs"
+
+[[test]]
+name = "ch42"
+path = "CH42/solution.rs"
+
+[[test]]
+name = "ch43"
+path = "CH43/solution.rs"
+
+[[test]]
+name = "ch44"
+path = "CH44/solution.rs"
+
+[[test]]
+name = "ch45"
+path = "CH45/solution.rs"
+
+[[test]]
+name = "ch46"
+path = "CH46/solution.rs"
+
+[[test]]
+name = "ch47"
+path = "CH47/solution.rs"
+
+[[test]]
+name = "ch48"
+path = "CH48/solution.rs"
+
+[[test]]
+name = "ch49"
+path = "CH49/solution.rs"
+
+[[test]]
+name = "ch50"
+path = "CH50/solution.rs"
+
+[[test]]
+name = "ch51"
+path = "CH51/solution.rs"
+
+[[test]]
+name = "ch52"
+path = "CH52/solution.rs"
+
+[[test]]
+name = "ch53"
+path = "CH53/solution.rs"
+
+[[test]]
+name = "ch54"
+path = "CH54/solution.rs"
+
+[[test]]
+name = "ch55"
+path = "CH55/solution.rs"
+
+[[test]]
+name = "ch56"
+path = "CH56/solution.rs"
+
+[[test]]
+name = "ch57"
+path = "CH57/solution.rs"
+
+[[test]]
+name = "ch58"
+path = "CH58/solution.rs"
+
+[[test]]
+name = "ch59"
+path = "CH59/solution.rs"
+
+[[test]]
+name = "ch60"
+path = "CH60/solution.rs"
+
+[[test]]
+name = "ch61"
+path = "CH61/solution.rs"
+
+[[test]]
+name = "ch62"
+path = "CH62/solution.rs"
+
+[[test]]
+name = "ch63"
+path = "CH63/solution.rs"
+
+[[test]]
+name = "ch64"
+path = "CH64/solution.rs"
+
+[[test]]
+name = "ch65"
+path = "CH65/solution.rs"
+
+[[test]]
+name = "ch66"
+path = "CH66/solution.rs"
+
+[[test]]
+name = "ch67"
+path = "CH67/solution.rs"
+
+[[test]]
+name = "ch68"
+path = "CH68/solution.rs"
+
+[[test]]
+name = "ch69"
+path = "CH69/solution.rs"
+
+[[test]]
+name = "ch70"
+path = "CH70/solution.rs"
+
+[[test]]
+name = "ch71"
+path = "CH71/solution.rs"
+
+[[test]]
+name = "ch72"
+path = "CH72/solution.rs"
+
+[[test]]
+name = "ch73"
+path = "CH73/solution.rs"
+
+[[test]]
+name = "ch74"
+path = "CH74/solution.rs"
+
+[[test]]
+name = "ch75"
+path = "CH75/solution.rs"
+
+[[test]]
+name = "ch76"
+path = "CH76/solution.rs"
+
+[[test]]
+name = "ch77"
+path = "CH77/solution.rs"
+
+[[test]]
+name = "ch78"
+path = "CH78/solution.rs"
+
+[[test]]
+name = "ch79"
+path = "CH79/solution.rs"
+
+[[test]]
+name = "ch80"
+path = "CH80/solution.rs"
+
+[[test]]
+name = "ch81"
+path = "CH81/solution.rs"
+
+[[test]]
+name = "ch82"
+path = "CH82/solution.rs"
+
+[[test]]
+name = "ch83"
+path = "CH83/solution.rs"
+
+[[test]]
+name = "ch84"
+path = "CH84/solution.rs"
+
+[[test]]
+name = "ch85"
+path = "CH85/solution.rs"
+
+[[test]]
+name = "ch86"
+path = "CH86/solution.rs"
+
+[[test]]
+name = "ch87"
+path = "CH87/solution.rs"
+
+[[test]]
+name = "ch88"
+path = "CH88/solution.rs"
+
+[[test]]
+name = "ch89"
+path = "CH89/solution.rs"
+
+[[test]]
+name = "ch90"
+path = "CH90/solution.rs"
